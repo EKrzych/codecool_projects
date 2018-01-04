@@ -1,3 +1,6 @@
+# Write the script which takes infinitive verbs separated by one space as the command line arguments 
+# and displays their present participle form in separated lines.
+
 MyList = (input("Give me your verbs separated by comas:")) 
 MyList = MyList.split(",")
 for item in MyList:

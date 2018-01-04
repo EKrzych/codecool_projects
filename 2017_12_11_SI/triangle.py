@@ -1,3 +1,8 @@
+#Write a program which takes 6 integers a, b, c, d, e, f 
+# - the coordinates of the vertices of the triangle (a, b), (c, d) and (e, f), 
+# and prints the value of its area. 
+# The coordinates of the vertices of the triangle are numbers in the range from -100 to 100. 
+
 Coordinates = input("Give me 6 intigers divided by comas - coordinates of 3 verticles: x1,y1,x2,y2,x3,y3) ")
 Coordinates = Coordinates.split(",")
 Coordinates = [int (i) for i in Coordinates]

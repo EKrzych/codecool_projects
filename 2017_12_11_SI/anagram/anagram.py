@@ -1,3 +1,7 @@
+# Write the anagram recogniser that accepts a file name from the user provided as the command line argument 
+# of the script, reads each line of that file, 
+# and displays in separated lines those pairs of word which are anagrams.
+
 import sys
 file_object = open (sys.argv[1], "r")
 MyList=[]

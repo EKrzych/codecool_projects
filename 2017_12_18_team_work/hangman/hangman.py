@@ -1,3 +1,6 @@
+# Create a script that has a list of European capitals, 
+# pick one of them randomly and let the user guess it.
+
 import sys
 import random
 import time
@@ -161,7 +164,6 @@ def guessing_word_or_letter(country_capital_list, max_life):
         start = time.time()
         print("\n"*2)
         print("Your life: ", life)
-        print(country_capital_list[1])
 
         print_guess_not_in_word_list(country_capital_list)
 

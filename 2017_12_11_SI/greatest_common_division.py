@@ -1,3 +1,6 @@
+#Write a program which takes two numbers from a command line 
+# and prints the greatest common divisor of them.
+
 a = int (input("Your first number:"))
 b = int (input("Your second number:"))
 

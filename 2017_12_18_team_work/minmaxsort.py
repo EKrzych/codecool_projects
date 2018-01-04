@@ -1,9 +1,8 @@
-list =[-5, 23, 0, "dupa", -9, 12, 99, [2, 44], none, 105, -43]
+# let's practice some algorithms - 
+# calculate minimum, maximum and average from numbers in list.
+# PLEASE DO NOT USE BUILD-IN PYTHON FUNCTIONS TO CALCULATE MIN, MAX, AVG and SORT!!!
 
-def create_list_int(list):
-    for ii
-
-#Numbers = [-5, 23, 0, -9, 12, 99, 105, -43]
+Numbers = [-5, 23, 0, -9, 12, 99, 105, -43]
 def min_max(Numbers):
     i=1
     while i < len(Numbers):
@@ -24,9 +23,11 @@ def avg (Numbers):
         i+=1
     return suma/len(Numbers)
     
+def main():
+    print(Numbers)
+    min_max(Numbers)
+    print ("Min value in Numbers is ", Numbers[0], "Max value in Numbers is ", Numbers[len(Numbers)-1])
+    average = avg(Numbers)
+    print ("Avarage in Numbers is ", average)
 
-print(Numbers)
-min_max(Numbers)
-print ("Min value in Numbers is ", Numbers[0], "Max value in Numbers is ", Numbers[len(Numbers)-1])
-average = avg(Numbers)
-print ("Avarage in Numbers is ", average)
+main()

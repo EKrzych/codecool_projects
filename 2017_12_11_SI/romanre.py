@@ -1,3 +1,7 @@
+# Write a program which takes a natural number 
+# (written in Arabic numerals, greater than zero and less than 4000), 
+# and then prints it in Roman form.
+
 Number = int (input("What's your number?"))
 RomanNumber = ""
 Arabic = [1000,900,500,400,100,90,50,40,10,9,5,4,1]

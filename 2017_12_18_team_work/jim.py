@@ -1,3 +1,4 @@
+# Create a flowchart for the automated pricing of the ‘Gym Carrey’ gym.
 
 questions = ["would you like to use sauna(yes/no)?", "Are you a student?(yes/no)", "Are you a woman?(yes/no)"]
 answers = ["You should pay: 1500 HUF","You should pay: 300 HUF", "You should pay: 500 HUF", "You should pay: 750 HUF"]
