@@ -1,0 +1,16 @@
+
+                                A
+(,);    /\                 A    H
+(  ^_   ||       ...       H MM HA
+' /  \  ||      (()))     AH^HH^HH
+  L <=) ||      {' ())    HH_HH_HH
+   ) -  ||       )_ (() AAxHHHHxAxH
+ (_   \====  @  (   (_) HHHH/^\HHHH
+ | <___/{ }   \7 \ _> |_HHHH___HHHHH_
+
+    Welcome to the roguelike game!
+
+ Game developers: Ela, Magda, Michał 
+
+
+
